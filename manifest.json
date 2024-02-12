@@ -1,9 +1,12 @@
 {
   "domain": "life360v2",
   "name": "Life360v2",
+  "version": "7.0",
   "codeowners": ["@pnbruckner"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/life360",
   "iot_class": "cloud_polling",
+  "requirements": [],
+  "dependencies": [],
   "loggers": ["Life360v2"]
 }
