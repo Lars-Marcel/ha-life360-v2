@@ -6,7 +6,7 @@
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/life360",
   "iot_class": "cloud_polling",
-  "requirements": [],
+  "requirements": ["hrequests==0.8.1"],
   "dependencies": [],
   "loggers": ["Life360v2"]
 }
